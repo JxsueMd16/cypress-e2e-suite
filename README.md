@@ -4,6 +4,12 @@ Suite de tests E2E automatizados con Cypress sobre [Sauce Demo](https://www.sauc
 
 ---
 
+## Demo
+
+![Demo](cypress/assets/demo.gif)
+
+---
+
 ## Tests incluidos
 
 ### Auth (`cypress/e2e/auth/login.cy.js`)
